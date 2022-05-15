@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: James Song's Personal Page
 show_downloads: False
+is_project_page: false
