@@ -25,10 +25,12 @@ Best Paper Nominee, Pacific-Asia Conference on Information Systems(PACIS) 2016
     Your email:
     <input type="email" name="email">
   </label>
+  <br/>
   <label>
     Your message:
     <textarea name="message"></textarea>
   </label>
+  <br/>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
