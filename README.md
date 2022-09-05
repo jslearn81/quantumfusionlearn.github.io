@@ -18,19 +18,19 @@ During my free time, i enjoy travelling and cycling.
 Best Paper Nominee, Pacific-Asia Conference on Information Systems(PACIS) 2016 
 
 
-### Connect With Me
+## Connect With Me
 
 Send me a message and i will reply to you.
 <br/>
 <form action="https://formspree.io/f/xjvzgypp"
   method="POST">
-  <label>
-    * Your email:
+  * <label>
+    Your email:
     <input type="email" name="email">
   </label>
   <br/>
-  <label>
-    * Your message:
+  * <label>
+    Your message:
     <textarea name="message"></textarea>
   </label>
   <br/>
