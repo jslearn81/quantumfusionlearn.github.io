@@ -1,7 +1,7 @@
 # Welcome !
 My name is James Song Jianyong and i am a PhD student in Fintech at National University Of Singapore (NUS), Asian Institute of Finance.<br/>
 I previously graduated with double degrees BBA (Finance) and B.Comp (Information Systems) from NUS and worked in the industry for about 5 years, specializing in quantiative strategies in fixed income and have completed all 3 levels of the Chartered Financial Analyst (CFA) exams. <br/>
-I work comfortably with R,Python and Java and am a tech enthusiast. <br/>
+I work comfortably with Python,R and Java and am a tech enthusiast. <br/>
 During my free time, i enjoy travelling and cycling.
 
 ## Research Interest
@@ -16,3 +16,19 @@ During my free time, i enjoy travelling and cycling.
 
 * CONSUMERS’ ENDORSEMENT EFFECTS ON MARKETER AND USER-GENERATED CONTENT IN A SOCIAL MEDIA BRAND COMMUNITY <br/>
 Best Paper Nominee, Pacific-Asia Conference on Information Systems(PACIS) 2016 
+
+
+### Connect With Me
+<form action="https://formspree.io/f/xjvzgypp"
+  method="POST">
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
