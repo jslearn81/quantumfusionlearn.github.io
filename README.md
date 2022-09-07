@@ -6,7 +6,7 @@ I work comfortably with Python,R, and Java and am a tech enthusiast. <br/>
 During my free time, i enjoy travelling and cycling.
 
 ## Research Interest
-I am interested in emprical research and love to test theories on real data. The following are my broad interests:
+I am interested in emprical research and love to test theories on real data. The following is my broad research focus:
 <br/>
 * Economics Of Fintech
 * Security Analysts and Social Media analysts
