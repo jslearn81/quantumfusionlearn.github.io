@@ -1,6 +1,6 @@
 # Welcome !
 My name is James Song Jianyong, and I'm a doctoral student in FinTech at the National University of Singapore (NUS), Asian Institute of Digital Finance.<br/>
-My bachelor's degrees are a BBA (Finance) and a B.Comp (Information Systems), and I worked in the finance industry for about five years before starting my PhD.<br/>
+My bachelor's degrees are in BBA (Finance) and B.Comp (Information Systems), and I worked in the finance industry for about five years before starting my PhD.<br/>
 My work experience includes developing quantitative strategies for fixed income, and I have passed all three levels of the Chartered Financial Analyst (CFA) exams.<br/>
 I'm good with Python, R, and Java, and I'm interested in programming and data wrangling.<br/>
 In my free time, I like to travel and ride my bike. <br/>
